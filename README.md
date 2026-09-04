@@ -3,6 +3,7 @@
 I'm a Quantum Systems Engineering student at Colorado School of Mines in Golden, CO, interested in quantum hardware and systems development. I love computer architecture and hardware, personally preferring low-level programming and operating system engineering.
 
 LinkedIn: linkedin.com/in/garrettfloyd345
+
 Email: garrettfloyd345@hotmail.com
 
 ## What I'm Learning
