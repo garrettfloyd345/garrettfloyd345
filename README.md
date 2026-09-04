@@ -8,7 +8,7 @@ Email: garrettfloyd345@hotmail.com
 
 ## What I'm Learning
 
-Please refer to my Coursework section as well.
+Wrapping up the last few Sophomore level classes for my degree, will be Junior by degree credits in Spring 2027, currently Junior by total credits.
 
 I'm currently bridging some gaps in my hard skills for Verilog and Qiskit, taking my fundamental low-level logical knowledge I gained from completing Turing Complete and designing circuits in Logisim Evolution, and putting it towards practical programming and testing for FPGAs.
 
@@ -17,23 +17,6 @@ I'm currently bridging some gaps in my hard skills for Verilog and Qiskit, takin
 Transferring completed projects from Turing Complete and Logisim over to Github for ease of display
 
 Learning Verilog from scratch to physically execute my designed architectures
-
-## Coursework
-
-* Completed
-  * Calculus I-III
-  * Differential Equations
-  * Linear Algebra
-  * Introduction to Programming and Programming Fundamentals
-      * Basic Python and C++ courses at my college
-  * Physics I, II
-* Active
-  * Statics
-  * Thermodynamics
-  * Systems Programming
-  * Modern Physics I
-  * Electrical Circuits
-
 <!--
 **garrettfloyd345/garrettfloyd345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
